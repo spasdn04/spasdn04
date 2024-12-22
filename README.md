@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spasdn04
-- 👀 I’m interested in python and specialy in python for engineering
+- 👀 I’m interested in python, c++ and specialy in c++ for engineering
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on a project for my programing level
 - 📫 How to reach me: spas2004dn@gmail.com
